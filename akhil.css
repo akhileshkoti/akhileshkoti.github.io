@@ -10,8 +10,8 @@ body::-webkit-scrollbar {
 }
 #intro{
     position: relative;
-    top: 50%;
-    margin: -30px auto;
+    top: 40%;
+
     text-align: left;
     margin-top: 0%;
     height: 100vh;
@@ -32,7 +32,7 @@ img
 }
 #loading{
     color: #fff;
-    font-family: Consolas, Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     font-size: 100px;
     text-shadow: 0 0 15px #0f0;
 }
