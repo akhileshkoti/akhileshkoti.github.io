@@ -14,7 +14,7 @@
         <link rel="icon" href="hacker.png">
         <title>Akhilesh Koti</title>
     </head>
-    <body>
+    <body style="padding-left: 0%; padding-right: 0%;">
         <div id="background">
             <div id="intro">
                 <div id="loading" class="container-fluid"> Akhilesh</div><br>
